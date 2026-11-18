@@ -11,7 +11,9 @@ Sockets Links.
 ## PROGRAM
 ## SERVER:
 <img width="714" height="825" alt="image" src="https://github.com/user-attachments/assets/0e4067b0-001f-45bf-b770-47a1acfcbc61" />
+
 ## CLIENT:
+
 <img width="871" height="711" alt="image" src="https://github.com/user-attachments/assets/5ceb2456-070e-40c0-960d-8a008490c776" />
 
 ## OUPUT
